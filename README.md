@@ -16,7 +16,6 @@ npm install
 ```
 npm run test // runs test suite script
 
-npm run dev // runs dev script
 ```
 
 ## Next Steps
