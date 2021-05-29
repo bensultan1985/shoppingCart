@@ -1,6 +1,6 @@
 # Shopping Cart Exercise
 
-This is a simple shopping cart challenge which contains a shop items list, a shopping cart class, and a test suite. The shopping cart class has three methods: add(), total_amount(), and items_list().
+This is a simple shopping cart application which contains a shop items list, a shopping cart class, and a test suite. The shopping cart class has three methods: add(), total_amount(), and items_list().
 
 ## Installation
 
